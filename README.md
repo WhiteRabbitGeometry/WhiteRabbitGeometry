@@ -1,10 +1,24 @@
-- 👋 Hi, I’m @WhiteRabbitGeometry
-- 👀 I’m interested in artificial intelligence, machine learning, and coding.
-- 🌱 I’m currently learning the ropes on github. I've always been told I should code but never got past the first chapter of C+. I know Html4 and some CSS, but for the most part I'm a coding noob. I do however have a background in philosophy and neuroscience, as well as degrees in scientific application and instruction.
-- 💞️ I’m looking to collaborate on A.I. and coding projects.
-- 📫 How to reach me WhiteRabbitGeometry@gmail.com, or through any social channel @WhiteRabbitGeometry.
+I build systems that think about thinking.
 
-<!---
-WhiteRabbitGeometry/WhiteRabbitGeometry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Current focus: memory architectures, context-aware retrieval, and trust-weighted reasoning systems.
+Less interested in “AI that sounds right,” more interested in systems that know why something is right—or when it isn’t.
+
+Background in philosophy and neuroscience.
+Came into coding sideways, stayed because it’s the closest thing we have to building thought-structures in the open.
+
+Working on:
+
+Context-gated memory systems (non-global recall)
+Trust-aware retrieval and reflection loops
+Experimental symbolic + deterministic layers (yes, including weird ones)
+
+Open to:
+
+Collaboration on AI systems that prioritize reasoning over vibes
+People who care about epistemics, not just output
+Interesting problems that don’t fit clean categories
+
+Reach me:
+WhiteRabbitGeometry@gmail.com
+
+or @WhiteRabbitGeometry
